@@ -1,1 +1,3 @@
-# If you want to give contribution please give one javascripts files
+# Color game
+
+If you want to give the contribution add some javascirpts
